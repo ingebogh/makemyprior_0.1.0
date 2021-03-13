@@ -1,7 +1,7 @@
 
 # makemyprior
 
-This is the R package 'makemyprior'. It is an R package 
+This is the R package 'makemyprior'. It is an R package for specifying robust joint variance priors in an intuitive way, using a graphical interface. The package also allows for direct inference with the specified model and prior.
 
 **Installation:**
 
