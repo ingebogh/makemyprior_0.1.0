@@ -17,7 +17,7 @@ The install the package:
 devtools::install_url("https://github.com/ingebogh/makemyprior_0.1.0/raw/main/makemyprior.zip", build_vignettes = TRUE)
 ```
 
-If you do not want to install the package with the vignettes, run:
+If you do not want to install the package with the vignettes, or it does not work to install with them, run:
 
 ```
 devtools::install_url("https://github.com/ingebogh/makemyprior_0.1.0/raw/main/makemyprior.zip", build_vignettes = FALSE)
